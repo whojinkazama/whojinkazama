@@ -19,7 +19,7 @@ Check out my repositories for the following projects:
 - **Cybersecurity Scripts**: Utilities for network security analysis and vulnerability scanning.
 
 ## 🎮 Hobbies
-When I’m not coding, I enjoy gaming (Valorant is my favorite), going to the gym to build strength, and learning new technologies in cybersecurity.
+When I’m not coding, I enjoy gaming, going to the gym to build strength, and learning new technologies in cybersecurity.
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/mohsinmwani/)
