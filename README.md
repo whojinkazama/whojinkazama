@@ -22,7 +22,7 @@ Check out my repositories for the following projects:
 When I’m not coding, I enjoy gaming (Valorant is my favorite), going to the gym to build strength, and learning new technologies in cybersecurity.
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/mohsin)
+- [LinkedIn](https://www.linkedin.com/in/mohsinmwani/)
 - [Email](mailto:imelyja@gmail.com)
 
 Feel free to reach out if you want to collaborate or chat about cybersecurity, coding, or gaming!
