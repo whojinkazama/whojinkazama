@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring cybersecurit
 - **Development**: Familiar with Git and version control
 
 ## 🧠 Current Learning Focus
-- **C++**: Strengthening my skills in data structures, algorithms, and OOP.
+- **Malware Analysis**: Deepening my understanding of malware analysis through hands-on reverse engineering, dynamic analysis, and threat research
 - **Cybersecurity**: Gaining practical experience and certifications to enhance my understanding.
 - **Cloud Security & DevSecOps**: Exploring the integration of security practices into cloud computing environments.
 
