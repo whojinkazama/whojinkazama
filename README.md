@@ -1,5 +1,5 @@
 ## Hi, I'm Mohsin 👋
-Welcome to my GitHub profile! I'm a passionate learner and aspiring cybersecurity analyst with a deep interest in Assembly programming and network analysis. Currently, I'm diving deeper into cybersecurity, focusing on cryptography, cloud security, and malware analysis.
+Welcome to my GitHub profile! I'm a passionate learner and aspiring cybersecurity analyst with a deep interest in Assembly programming and Malware and network analysis. Currently, I'm diving deeper into cybersecurity, focusing on cryptography, cloud security, and malware analysis.
 
 ## 🚀 My Skills
 - **Languages**: C++, Python
