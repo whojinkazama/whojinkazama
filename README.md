@@ -1,6 +1,8 @@
 ## Hi, I'm Mohsin 👋
 Welcome to my GitHub profile! I'm a passionate learner and aspiring cybersecurity analyst with a deep interest in Assembly programming, Malware and Network analysis. Currently, I'm diving deeper into cybersecurity, focusing on cryptography, Bug bounty, and malware analysis and SOC operations.
-
+## Social links
+- <a><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinmwani"></a>
+- <a><img src="https://tryhackme-badges.s3.amazonaws.com/whojin.png" alt="Your Image Badge" /></a>
 ## 🚀 My Skills
 - <a><img src="https://img.shields.io/badge/Languages-C++%20|%20Python-3776AB?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=20"></a>
 - <a> <img src="https://img.shields.io/badge/Cybersecurity-Networking%20|%20Cryptography%20|%20Threat%20Detection-2F4F4F?style=flat"></a>
