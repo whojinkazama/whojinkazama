@@ -1,11 +1,11 @@
 ## Hi, I'm Mohsin 👋
-Welcome to my GitHub profile! I'm a passionate learner and aspiring cybersecurity analyst with a deep interest in Assembly programming, Malware and Network analysis. Currently, I'm diving deeper into cybersecurity, focusing on cryptography, cloud security, and malware analysis.
+Welcome to my GitHub profile! I'm a passionate learner and aspiring cybersecurity analyst with a deep interest in Assembly programming, Malware and Network analysis. Currently, I'm diving deeper into cybersecurity, focusing on cryptography, Bug bounty, and malware analysis and SOC operations.
 
 ## 🚀 My Skills
-- **Languages**: C++, Python
-- **Cybersecurity**: Networking, Cryptography, Threat Detection, Security Operations, Cloud Security
-- **Tools**: Wireshark, Metasploit, Nmap
-- **Development**: Familiar with Git and version control
+- <a><img src="https://img.shields.io/badge/Languages-C++%20|%20Python-3776AB?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=20"></a>
+- <a> <img src="https://img.shields.io/badge/Cybersecurity-Networking%20|%20Cryptography%20|%20Threat%20Detection-2F4F4F?style=flat"></a>
+- <a> <img src="https://img.shields.io/badge/Tools-Wireshark%20|%20Metasploit%20|%20Nmap-696969?style=flat"></a>
+- <a> <img src="https://img.shields.io/badge/Development-Git%20|%20Version%20Control-FCA121?style=flat"></a>
 
 ## 🧠 Current Learning Focus
 - **Malware Analysis**: Deepening my understanding of malware analysis through hands-on reverse engineering, dynamic analysis, and threat research
