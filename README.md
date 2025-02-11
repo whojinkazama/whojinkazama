@@ -1,7 +1,7 @@
 ## Hi, I'm Mohsin 👋  
 🛡️ Cybersecurity Enthusiast | 🔍 Bug Bounty Hunter | 🖥️ Aspiring SOC Analyst  
 
-### 🔗 Connect with me  
+### 🔗 My socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsinmwani)  [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/whojin)  
 
 ## 🚀 My Skills
